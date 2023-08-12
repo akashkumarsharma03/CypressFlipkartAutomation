@@ -14,4 +14,4 @@ Before running the tests, ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/CypressFlipkartAutomation.git
+   git clone https://github.com/iamakashkumar/CypressFlipkartAutomation.git
